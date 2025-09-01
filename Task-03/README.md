@@ -1,38 +1,40 @@
-\# Task 03 - Grade Calculator
+\# Task 03 - ATM Interface
 
 
 
-A Java program that calculates total marks, average percentage and grade.
+A Java program that simulates an ATM.  
+
+Features:
+
+\- Check balance
+
+\- Deposit
+
+\- Withdraw
 
 
 
-How to run:
+\## How to Run
 
-javac GradeCalculator.java
+javac ATMInterface.java
 
-java GradeCalculator
-
-
-
-Sample input:
-
-3
-
-85
-
-90
-
-78
+java ATMInterface
 
 
 
-Sample output:
+\## Sample Run
 
-Total Marks: 253
+===== ATM Menu =====
 
-Average Percentage: 84.33%
+1\. Check Balance
 
-Grade: B
+2\. Deposit
+
+3\. Withdraw
+
+4\. Exit
+
+
 
 
 
